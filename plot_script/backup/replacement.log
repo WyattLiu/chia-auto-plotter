@@ -1,0 +1,119 @@
+ramdisk has 0
+ramdisk has 0
+ramdisk has 0
+ramdisk has 0
+ramdisk has 0
+ramdisk has 0
+ramdisk has 0
+ramdisk has 0
+ramdisk has 0
+ramdisk has 0
+ramdisk has 0
+ramdisk has 0
+ramdisk has 0
+ramdisk has 0
+ramdisk has 1
+$VAR1 = {
+          '/mnt/144_media/CHIA-IRON-16T0' => 146,
+          '/mnt/144_media/CHIA-X16-14T3' => 127,
+          '/mnt/222_media/CHIA-MASS6' => 91,
+          '/mnt/144_media/CHIA-RED-3T-3' => 27,
+          '/mnt/144_media/CHIA-X18-ALI' => 156,
+          '/mnt/222_media/CHIA-MASS-USB1' => 45,
+          '/mnt/144_media/CHIA-RP14T0' => 128,
+          '/mnt/144_media/CHIA-X16-14T1' => 129,
+          '/mnt/144_media/CHIA-X18-18T1' => 164,
+          '/mnt/144_media/CHIA-MASS-USB0-E' => 72,
+          '/mnt/144_media/CHIA-BARA8T3' => 73,
+          '/mnt/144_media/CHIA-BARA8T2' => 73,
+          '/mnt/222_media/CHIA-IRONWOLF1' => 108,
+          '/mnt/144_media/CHIA-RED-3T-1' => 27,
+          '/mnt/144_media/CHIA-RED-3T-2' => 27,
+          '/mnt/222_media/CHIA-IRON18T0' => 165,
+          '/mnt/144_media/CHIA-GOLD16-WD1' => 146,
+          '/mnt/144_media/CHIA-IRON18T2' => 165,
+          '/mnt/222_media/CHIA-MASS2' => 128,
+          '/mnt/222_media/CHIA-MASS-RP0' => 73,
+          '/mnt/222_media/CHIA-MASS4' => 127,
+          '/mnt/222_media/CHIA-MASS-USB0' => 44,
+          '/mnt/144_media/CHIA-BARA8T1' => 73,
+          '/mnt/222_media/CHIA-MASS-RP1' => 73,
+          '/mnt/222_media/CHIA-WIN4' => 165,
+          '/mnt/222_media/CHIA-MASS1' => 109,
+          '/mnt/222_media/CHIA-IRONWOLF2' => 109,
+          '/mnt/222_media/CHIA-X16' => 145,
+          '/mnt/144_media/CHIA-USBSSD1' => 17,
+          '/mnt/222_media/CHIA-MASS0' => 109,
+          '/mnt/144_media/CHIA-BARA8T0' => 73,
+          '/mnt/144_media/CHIA-IRON-16T1' => 146,
+          '/mnt/144_media/CHIA-USBSSD0' => 17,
+          '/mnt/222_media/CHIA-MASS-USB1-E' => 73,
+          '/mnt/144_media/CHIA-X18-18T2' => 165,
+          '/mnt/144_media/CHIA-BARA8T4' => 74,
+          '/mnt/222_media/CHIA-WIN3' => 147,
+          '/mnt/144_media/CHIA-IRON-16T2' => 146,
+          '/mnt/144_media/CHIA-GOLD16-WD0' => 146,
+          '/mnt/222_media/CHIA-WIN0' => 147,
+          '/mnt/144_media/CHIA-GOLD16-WD2' => 146,
+          '/mnt/144_media/CHIA-IRON18T1' => 164,
+          '/mnt/144_media/CHIA-X16-14T0' => 127,
+          '/mnt/144_media/CHIA-X18-18T0' => 164,
+          '/mnt/222_media/CHIA-IRONWOLF0' => 109,
+          '/mnt/144_media/CHIA-RED-PLUS8T0' => 72,
+          '/mnt/144_media/CHIA-GOLD16-WD3' => 146,
+          '/mnt/144_media/CHIA-X16-14T-4' => 126,
+          '/mnt/222_media/CHIA-WIN2' => 147,
+          '/mnt/144_media/CHIA-RED-3T-0' => 27,
+          '/mnt/222_media/CHIA-IRONWOLF3' => 110,
+          '/mnt/222_media/CHIA-MASS7' => 91,
+          '/mnt/144_media/CHIA-BLUE-0' => 36,
+          '/mnt/144_media/CHIA-RED-PLUS8T1' => 73,
+          '/mnt/222_media/CHIA-MASS3' => 128,
+          '/mnt/222_media/CHIA-WIN1' => 147,
+          '/mnt/144_media/CHIA-X16-14T2' => 128,
+          '/mnt/144_media/CHIA-BLUE-1' => 36
+        };
+/mnt/144_media/CHIA-MASS-USB0-E has 0 tmp
+Free space: /mnt/144_media/CHIA-MASS-USB0-E
+/mnt/222_media/CHIA-IRONWOLF1 has 0 tmp
+Free space: /mnt/222_media/CHIA-IRONWOLF1
+/mnt/222_media/CHIA-MASS-USB0 has 0 tmp
+Free space: /mnt/222_media/CHIA-MASS-USB0
+/mnt/222_media/CHIA-X16 has 0 tmp
+Free space: /mnt/222_media/CHIA-X16
+/mnt/144_media/CHIA-RED-PLUS8T0 has 0 tmp
+Free space: /mnt/144_media/CHIA-RED-PLUS8T0
+/mnt/144_media/CHIA-X16-14T-4 has 0 tmp
+Free space: /mnt/144_media/CHIA-X16-14T-4
+mv target free_dir: /mnt/144_media/CHIA-MASS-USB0-E
+mv target free_dir: /mnt/222_media/CHIA-IRONWOLF1
+mv target free_dir: /mnt/222_media/CHIA-MASS-USB0
+mv target free_dir: /mnt/222_media/CHIA-X16
+mv target free_dir: /mnt/144_media/CHIA-RED-PLUS8T0
+mv target free_dir: /mnt/144_media/CHIA-X16-14T-4
+mv target free_dir: /mnt/144_media/CHIA-X16-14T-4
+Send to free_dir: /mnt/144_media/CHIA-MASS-USB0-E, src: /mnt/tmp_vol/plot-k32-c05-2023-08-28-01-45-6d7a7d33538203a0b0d89e6d116bf120ac69f2d160cd1eb43047f66faa310a86.plot
+cp /mnt/tmp_vol/plot-k32-c05-2023-08-28-01-45-6d7a7d33538203a0b0d89e6d116bf120ac69f2d160cd1eb43047f66faa310a86.plot /mnt/144_media/CHIA-MASS-USB0-E
+$VAR1 = {
+          '/mnt/tmp_vol/plot-k32-c05-2023-08-28-01-45-6d7a7d33538203a0b0d89e6d116bf120ac69f2d160cd1eb43047f66faa310a86.plot' => 1
+        };
+ramdisk has 0
+ramdisk has 0
+ramdisk has 0
+ramdisk has 0
+ramdisk has 0
+ramdisk has 0
+ramdisk has 0
+ramdisk has 0
+ramdisk has 0
+ramdisk has 0
+ramdisk has 0
+ramdisk has 0
+ramdisk has 0
+ramdisk has 0
+ramdisk has 0
+ramdisk has 0
+ramdisk has 0
+ramdisk has 0
+ramdisk has 0
+ramdisk has 0
